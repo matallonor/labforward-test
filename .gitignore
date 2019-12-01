@@ -1,0 +1,17 @@
+# OS auto-generated files
+*.DS_Store
+
+# IDEs
+.idea/**/workspace.xml
+.idea/encodings.xml
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Coverage
+.nyc_output/
+coverage/
+
+# Node
+node_modules/
